@@ -3,7 +3,7 @@
 This is a **Personalized Recipe Generator** app built using **Streamlit**, **LangChain**, and **Google Gemini**. The app allows users to ask for personalized recipes based on their preferences and generates structured recipe responses with ingredients, cooking time, and step-by-step instructions.
 
 You can check out the live app at:  
-[Personalized Recipe Generator App](https://your-live-app-link.streamlit.app/)
+[Personalized Recipe Generator App](https://kirangajjana-personalized-recipe-generator-app-rcw117.streamlit.app/)
 
 ## Features
 - User-friendly interface to generate personalized recipes.
