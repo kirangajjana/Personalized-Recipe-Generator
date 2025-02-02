@@ -64,8 +64,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## License
 This project is licensed under the MIT License.
 
-## Author
-**Your Name**  
-GitHub: [yourusername](https://github.com/yourusername)  
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+
 
